@@ -6,7 +6,7 @@ API_ID = os.environ.get("API_ID", "23032012")
 
 API_HASH = os.environ.get("API_HASH", "5e47a644cc456147dbc79a24511c4dbb")
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "7264263787:AAE72vhNLtm8SJsQhhUXM_AjFLubtWDFSsc") 
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "7264263787:AAHHNl4ljuaXUhYt4KvGn6NXOFmtQDIxAOA") 
 
 FORCE_SUB = os.environ.get("FORCE_SUB", "WebXBots") 
 
